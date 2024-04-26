@@ -1,0 +1,28 @@
+h1 {
+    color: ghostwhite;
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: flex-end;
+    height: 60px;
+    font-size: xxx-large;
+}
+h2 {
+    color: dodgerblue;
+}
+b {
+    color: goldenrod;
+}
+span {
+    color: darkblue;
+    font-weight: bold;
+}
+.section {
+    background-color: lightgray;
+    color: white;
+}
+.s {
+    margin-left: 40px;
+}
+.w {
+    padding-left: 1px;
+}
